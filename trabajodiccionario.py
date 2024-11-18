@@ -70,5 +70,5 @@ if __name__ == "__main__":
     print(f"Copia de 'clave3': {copia}")
     
     tesoro = m0.tomar("clave3")  # Toma (elimina) el par clave-valor "clave3"
-    print(f"Tesoro tomado de 'clave3': {tesoro}")
+    print(f"Eliminada la 'clave3': {tesoro}")
     print(m0)
